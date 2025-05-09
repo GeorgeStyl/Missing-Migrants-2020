@@ -1,4 +1,4 @@
-# Missing Migrants Data Analysis
+# Missing Migrants Data Analysis (C Version)
 
 This project was developed as part of a university assignment. It processes a CSV file containing data about missing migrants and extracts useful information such as:
 
@@ -13,12 +13,12 @@ This project was developed as part of a university assignment. It processes a CS
 
 ## Requirements
 
-- Python 3.x
-- pandas (or any other libraries you used)
+- GCC compiler
+- A CSV file with migration data (e.g., `data.csv`)
 
-## Usage
+## Compilation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+To compile the program, run:
+
+```bash
+gcc -o project2 project2_final.c
