@@ -2,7 +2,7 @@
 
 This project was developed as part of a university assignment. It processes a CSV file containing data about missing migrants and extracts useful information such as:
 
-- Total number of deaths
+- Total number of deaths (either for women, men, or children)
 - Causes of death
 
 ## Features
